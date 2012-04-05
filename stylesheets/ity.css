@@ -1,0 +1,22 @@
+/* styles specific to the site */
+body {
+    background-color: #6282a6;
+}
+
+.navbar {
+    background-color: #7393b7;
+    -moz-box-shadow: 4px 2px 5px black;
+-webkit-box-shadow: 4px 5px 5px black;
+        box-shadow: 1px 3px 5px black;
+}
+
+.logo {
+}
+
+.tagline {
+    margin-top: 1.5em;
+    margin-right: 5em;
+    text-align: right;
+    font-Style: italic;
+    font-size: 1.5em;
+}
