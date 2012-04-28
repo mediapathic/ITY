@@ -64,17 +64,6 @@ nav {
     float: right;
 }
 
-.contact {
-    /*border: 1px solid black;*/
-    -moz-box-shadow: 4px 2px 5px black;
-    -webkit-box-shadow: 4px 5px 5px black;
-    box-shadow: 1px 0px 5px black;
-}
-
-.contact ul{
-    margin-left: 10px;
-    font-size: 1em;
-}
 
 .logo {
     padding-left: 0.5em;
@@ -87,3 +76,4 @@ nav {
     font-Style: italic;
     font-size: 1.5em;
 }
+
