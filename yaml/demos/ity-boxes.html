@@ -27,7 +27,7 @@
     <script type="text/javascript" charset="utf-8">
         $(document).ready(function() {
             $(".NavBarTitle").append("<div class='arrow'> &#x25B8;</div>");
-            $(".navContent").hide();  
+            /* $(".navContent").hide();  */
             $(".NavBarTitle").click(function(event){
                 $(this).next(".navContent").slideToggle();
                 if( $(this).children('.arrow').rotate() == "90deg" )
